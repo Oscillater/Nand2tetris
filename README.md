@@ -1,1 +1,3 @@
 My completion for projects of [Nand2tetris](https://www.nand2tetris.org/) .
+
+其中 proj 11 仍未完成，写了一部分，但感觉非常屎山，而且感觉还没理解完全的样子……
